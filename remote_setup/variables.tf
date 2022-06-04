@@ -23,3 +23,13 @@ variable "terraform_version" {
   description = "(Required) Version of Terraform to use in GitHub Actions."
   type        = string
 }
+
+variable "client_id" {
+  description = "(Required) Azure Client ID"
+  type        = string
+}
+
+variable "client_secret" {
+  description = "(Required) Azure Client Secret"
+  type        = string
+}
