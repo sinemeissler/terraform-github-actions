@@ -1,2 +1,2 @@
-github_repository = "ado-labs-validate-iac"
+github_repository = "terraform-github-actions"
 terraform_version = "1.1.3"
