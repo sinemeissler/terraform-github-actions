@@ -8,7 +8,7 @@ variable "location" {
   default     = "eastus"
 }
 
-variable "naming_prefix" {
+variable "SE" {
   description = "(Optional) Naming prefix used for resources. Defaults to adolabs."
   type        = string
   default     = "adolabs"
